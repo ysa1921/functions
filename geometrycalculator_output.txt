@@ -1,0 +1,10 @@
+Choose a calculation:
+1. Area of Circle
+2. Area of Rectangle
+3. Area of Triangle
+4. Volume of Sphere
+5. Volume of Cylinder
+6. Triangle Side using Law of Cosines
+7. Area of Circle Segment
+8. Surface Area of Sphere
+** Process Stopped **
